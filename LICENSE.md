@@ -1,10 +1,10 @@
-Elite NordVPN Client | torrenting support + L2TP support is the best NordVPN client with torrenting support and L2TP support. Secure and optimized.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://Fragmentvonditch.github.io/nordvpn-we71/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
